@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354152082373",
+    "firebase_url": "https://brand-point.firebaseio.com",
+    "project_id": "brand-point",
+    "storage_bucket": "brand-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354152082373:android:eb4bcc36516009812eb9ac",
+        "android_client_info": {
+          "package_name": "com.example.omkar.brandpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354152082373-8b9m4k2qvs3q0tj7qgm1huel7k7l005g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omkar.brandpoint",
+            "certificate_hash": "27283f78d99da87267b6f4f54e76189bc429ce5b"
+          }
+        },
+        {
+          "client_id": "354152082373-57meq6rh83b8oedvu0cjhg4q5tq39lat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8R4s9C_3kpFayFQHdxJ6sqfckEEqyeUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354152082373-57meq6rh83b8oedvu0cjhg4q5tq39lat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
